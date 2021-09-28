@@ -1,4 +1,4 @@
-# Git-Flow-Practice
+# Git-Flow-Practice xfalsjfasdfjeiwroafwe
 
 This project is designed for one to practice the Git/Github workflow here at Lambda School. You will be able to follow along with [this pre-class video](https://youtu.be/4fLr6ah82bE) and use this assignment to demonstrate your ability to work within this flow. Watch this video, then follow the instructions listed below to complete the assignment
 
@@ -13,7 +13,7 @@ This project is designed for one to practice the Git/Github workflow here at Lam
   - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
 
 
-## ADD your name here
+Adam Hinton
 
 - Steve Rogers
 - Ryan Hamblin
